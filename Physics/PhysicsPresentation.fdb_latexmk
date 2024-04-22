@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1713821005.35686 "/Users/dobromiriliev/Documents/GitHub/Notes/Physics/PhysicsPresentation.tex" "PhysicsPresentation.pdf" "PhysicsPresentation" 1713821006.31379 0
+["pdflatex"] 1713821407.65744 "/Users/dobromiriliev/Documents/GitHub/Notes/Physics/PhysicsPresentation.tex" "PhysicsPresentation.pdf" "PhysicsPresentation" 1713821408.64981 0
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1713211013.13653 1004 54797486969f23fa377b128694d548df ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1713211013.13671 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1713211013.14966 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -24,6 +24,7 @@
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1713211013.20589 35469 70d41d2b9ea31d5d813066df7c99281c ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1713211013.21524 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1713211013.21752 32362 179c33bbf43f19adbb3825bb4e36e57a ""
+  "/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb" 1713211013.22238 32734 69e00a6b65cedb993666e42eedb3d48f ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1713211013.22642 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1713211013.26641 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii" 1713211024.50908 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -121,13 +122,13 @@
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfkeys.sty" 1713211025.09226 274 5ae372b7df79135d240456a1c6f2cf9a ""
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty" 1713211025.09119 325 f9f16d12354225b7dd52a3321f085955 ""
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty" 1713211028.35543 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "/Users/dobromiriliev/Documents/GitHub/Notes/Physics/PhysicsPresentation.tex" 1713821003.56166 10080 f82c163c35751c0b2788cf052aa1c10e ""
+  "/Users/dobromiriliev/Documents/GitHub/Notes/Physics/PhysicsPresentation.tex" 1713821405.79231 16150 d4abb4263ba23a77c656cb65a6b33ad3 ""
   "/Users/dobromiriliev/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1713211631.44337 81088 29d6fa367ac022d1b69251d68c0742e6 ""
   "/Users/dobromiriliev/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1713211330.75255 21058210 16d1b3e576e01b0105cf555f26cf1fa3 ""
   "/Users/dobromiriliev/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.cfg" 1713211338.62336 1104 d237cad3f14be9fd91fe1f904d051a01 ""
   "/Users/dobromiriliev/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.sty" 1713211338.62376 42759 e63af52ccddba7489ac0e17d6a3344bd ""
-  "PhysicsPresentation.aux" 1713821006.15559 4095 6b64cc3a91bc67618309604ca3ac5919 "pdflatex"
-  "PhysicsPresentation.tex" 1713821003.56166 10080 f82c163c35751c0b2788cf052aa1c10e ""
+  "PhysicsPresentation.aux" 1713821408.4909 5836 ce7b91e574e7ec139026765e87884d0c "pdflatex"
+  "PhysicsPresentation.tex" 1713821405.79231 16150 d4abb4263ba23a77c656cb65a6b33ad3 ""
   (generated)
   "PhysicsPresentation.aux"
   "PhysicsPresentation.log"
