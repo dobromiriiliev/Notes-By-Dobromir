@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.4.15)  22 APR 2024 17:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.4.15)  22 APR 2024 19:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/dobromiriliev/Documents/GitHub/Notes/Physics/PhysicsPresentation.tex
-(/Users/dobromiriliev/Documents/GitHub/Notes/Physics/PhysicsPresentation.tex
+**/Users/dobromiriliev/Documents/GitHub/Notes/Physics/Physicspresentation/PhysicsPresentation.tex
+(/Users/dobromiriliev/Documents/GitHub/Notes/Physics/Physicspresentation/PhysicsPresentation.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
 (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
@@ -487,12 +487,12 @@ L3 programming layer <2024-03-14>
  ) 
 Here is how much of TeX's memory you used:
  14730 strings out of 476358
- 305437 string characters out of 2792196
+ 305537 string characters out of 2792196
  1935493 words of memory out of 3000000
  36589 multiletter control sequences out of 15000+600000
  566525 words of font info for 69 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 102i,9n,107p,507b,699s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 102i,9n,107p,527b,699s stack positions out of 5000i,500n,10000p,200000b,80000s
 </Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 Output written on PhysicsPresentation.pdf (9 pages, 135865 bytes).
 PDF statistics:
